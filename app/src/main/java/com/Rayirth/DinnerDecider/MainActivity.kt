@@ -14,14 +14,16 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
-    val foodList = arrayListOf("Chinese","Hamburger","Pizza","Mc Donald's","Idli Dosa","Nan Kulcha","Dahi Paratha","Palak Paneer")
+    val foodList = arrayListOf("Soya Chaap","Hamburger","Chilli Chicken","Pizza","Mc Donald's","Idli Dosa","Nan Kulcha","Dahi Paratha","Palak Paneer")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         supportRequestWindowFeature(Window.FEATURE_NO_TITLE)
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
-        //supportActionBar?.hide()
+        supportActionBar?.hide()
+
+
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
