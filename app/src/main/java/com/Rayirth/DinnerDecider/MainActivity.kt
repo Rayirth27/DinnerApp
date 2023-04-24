@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     val foodList = arrayListOf("Soya Chaap","Hamburger","Chilli Chicken","Pizza","Mc Donald's","Idli Dosa","Nan Kulcha","Dahi Paratha","Palak Paneer")
-    This is a step to check revert in Git
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -38,9 +38,11 @@ class MainActivity : AppCompatActivity() {
 
         binding.addFoodBtn.setOnClickListener{
             val newFood = binding.addFoodTxt.text.toString()
-            foodList.add(newFood)
-            binding.addFoodTxt.text.clear()
 
+            if(newFood!="") {
+                foodList.add(newFood)
+                binding.addFoodTxt.text.clear()
+            }
         }
     }
 }
