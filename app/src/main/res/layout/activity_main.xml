@@ -11,6 +11,7 @@
         android:id="@+id/selectedFoodTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
         android:fontFamily="@font/montserrat"
         android:text="Mexican"
         android:textColor="@color/colorPrimary"
@@ -18,20 +19,9 @@
         android:textStyle="bold"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="325dp"
-        android:layout_height="302dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="8dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dd_logo_foreground" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
         android:id="@+id/decideBtn"
@@ -42,7 +32,7 @@
         android:text="DECIDE!"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/design_default_color_background"
-        android:textSize="18sp"
+        android:textSize="25sp"
         android:typeface="normal"
         app:backgroundTint="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -56,13 +46,14 @@
         android:layout_width="223dp"
         android:layout_height="41dp"
         android:layout_marginStart="32dp"
-        android:layout_marginBottom="56dp"
+        android:layout_marginBottom="30dp"
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:hint="Add New Food..."
         android:inputType="textPersonName"
         android:textAlignment="center"
-        android:textColor="#000000"
+        android:textColor="#00384E"
+        android:textColorHint="#00384E"
         android:typeface="normal"
         android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/addFoodBtn"
@@ -86,5 +77,32 @@
         app:layout_constraintBottom_toTopOf="@+id/decideBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/montserrat"
+        android:text="Your choice of food for today!"
+        android:textColor="#00384E"
+        android:textColorHighlight="#00384E"
+        android:textColorHint="#00384E"
+        android:textColorLink="#00384E"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/selectedFoodTxt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="232dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/ic_launcher_foreground" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
