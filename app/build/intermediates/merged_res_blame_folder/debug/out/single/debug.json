@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-hdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\drawable-hdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\font_montserrat_alternates.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\font\\montserrat_alternates.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_dd_logo_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\dd_logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_dd_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\dd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-anydpi-v26_dd_logo.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-anydpi-v26\\dd_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_dd_logo_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\dd_logo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_dd_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\dd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\drawable-xhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xxxhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\drawable-xxxhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_dd_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\dd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-mdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\drawable-mdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Rayirth.DinnerDecider.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.Rayirth.DinnerDecider.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_dd_logo_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\dd_logo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_dd_logo_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\dd_logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_dd_logo_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\dd_logo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_dd_logo_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\dd_logo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_dd_logo_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\dd_logo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-hdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-hdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-xxhdpi_dd_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\drawable-xxhdpi\\dd_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_dd_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\dd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_dd_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\dd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-pngs-21:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_dd_logo_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\dd_logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_dd_logo_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\dd_logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxxhdpi_dd_logo_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxxhdpi\\dd_logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.Rayirth.DinnerDecider.app-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    }
+]
