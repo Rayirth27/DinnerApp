@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable dd_logo_foreground
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font montserrat
+font montserrat_alternates
+id addFoodBtn
+id addFoodTxt
+id decideBtn
+id imageView
+id selectedFoodTxt
+layout activity_main
+mipmap dd_logo
+mipmap dd_logo_background
+mipmap dd_logo_foreground
+mipmap dd_logo_monochrome
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.DinnerDecider
+xml backup_rules
+xml data_extraction_rules

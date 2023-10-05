@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context=".MainActivity"
+    android:fontFamily="@font/montserrat"
+    >
+
+    <TextView
+        android:id="@+id/selectedFoodTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="39dp"
+        android:text="Mexican"
+        android:textColor="@color/colorPrimary"
+        android:textSize="33sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:layout_constraintBottom_toTopOf="@+id/addFoodTxt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:contentDescription="DINNER DECIDER"
+        android:layout_width="325dp"
+        android:layout_height="302dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/dd_logo_foreground" />
+
+    <Button
+        android:id="@+id/decideBtn"
+        android:layout_width="416dp"
+        android:layout_height="68dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="DECIDE!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/design_default_color_background"
+        android:textSize="18sp"
+        android:typeface="normal"
+        app:backgroundTint="@color/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/addFoodTxt"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="56dp"
+        android:ems="11"
+        android:hint="Add New Food..."
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:typeface="normal"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/addFoodBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.402"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectedFoodTxt"
+        app:layout_constraintVertical_bias="0.962" />
+
+    <Button
+        android:id="@+id/addFoodBtn"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="235dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="112dp"
+        android:background="@color/colorPrimary"
+        android:text="ADD  FOOD"
+        android:textColor="@color/design_default_color_surface"
+        app:backgroundTint="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toTopOf="@+id/decideBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
